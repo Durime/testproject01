@@ -1,0 +1,1 @@
+Ne kuader te ketij projekti do te mesojm per Git dhe Github.
